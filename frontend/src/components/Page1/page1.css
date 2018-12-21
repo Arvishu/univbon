@@ -1,0 +1,88 @@
+/* Description */
+
+
+
+.header-nav{
+    background-color: #3ebbd3;
+    height: 18vw;
+}
+.title-header{
+    color:white;
+    padding-top:5%;
+    padding-left: 5%;
+    font-size:1.5em;
+}
+.margin{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.title_description{
+color:  #005bab;
+font-size: 6.5vw;
+margin-top: 4vw;
+}
+
+.image-diplome{
+    width:90vw;
+    margin: auto;
+    display: flex;
+    margin-top:2vw;
+}
+
+
+.liste_decimal{
+    list-style-type: decimal;
+}
+
+.bouton-orange{
+    text-align: center;
+    color: #467192;
+    }
+    .btn-warning {
+    color: #467192;
+    background-color: #FAAC54;
+    border-color: #FAAC54;
+    border-radius: 15px;
+    font-weight: 500;
+    margin-bottom: 3vw;
+    width: 82%;
+    }
+    .p-impacter{
+    font-size: 1.3em;
+    margin-bottom: 0;
+    }
+
+.subTitle_boutton{
+    text-align: center;
+    color:  #005bab;
+    font-size: 6.5vw;
+}
+
+.global-anatole{
+    position: relative;    
+    overflow: hidden;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 8vw;
+}
+.image-anatole{
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+}
+.anatoleFrance{
+    position: absolute;
+    right: 15%;
+    bottom: 15px;
+    left: 15%;
+    z-index: 10;      
+    color: #dedacf;
+    text-align: center;
+}
+.france{
+    font-weight: 500;
+    font-size: 5vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    background-color: #3e3b3b7a;
+}

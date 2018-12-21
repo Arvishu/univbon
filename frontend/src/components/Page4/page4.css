@@ -1,0 +1,17 @@
+.login-form .form-group {
+    margin-bottom: 2px;
+}
+.btn-compte-compte {
+    margin-bottom: 7vw;
+    margin-top: 12vw;
+}
+.btn-warning-compte {
+    color: #467192;
+    background-color: #FAAC54;
+    border-color: #FAAC54;
+    border-radius: 15px;
+    font-weight: 500;
+    margin-bottom: 3vw;
+    width: 96%;
+    margin-top: 10px;
+}
